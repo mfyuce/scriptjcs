@@ -1,4 +1,4 @@
-package com.scriptjcs;
+package com.scriptjcs.firstsample;
 
 import net.sf.jni4net.Bridge;
 
