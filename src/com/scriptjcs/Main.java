@@ -1,7 +1,6 @@
-package com.company;
+package com.scriptjcs;
 
 import net.sf.jni4net.Bridge;
-import system.Console;
 
 import java.io.IOException;
 

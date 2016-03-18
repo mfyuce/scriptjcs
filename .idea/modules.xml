@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/scriptjsc.iml" filepath="$PROJECT_DIR$/scriptjsc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scriptjcs.iml" filepath="$PROJECT_DIR$/scriptjcs.iml" />
     </modules>
   </component>
 </project>
