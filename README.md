@@ -1,5 +1,9 @@
 # scriptjsc
-Power of scriptcs in a Java VM
+Power of scriptcs in a Java VM.
+
+This project is a proof of concept that C# can be run from within a JVM.
+
+Currently there is not variable passing from JVM side. The C# code runs from CLR, so both JVM and .Net must be installed.
 
 ## What is being used
 
