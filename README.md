@@ -3,7 +3,7 @@ Power of scriptcs in a Java VM.
 
 This project is a proof of concept that C# can be run from within a JVM.
 
-Currently there is no variable passing from JVM side, or vice versa. The C# code runs from CLR, so both JVM and .Net must be installed.
+Currently there is no variable passing from JVM side, or vice versa. The C# code runs from within CLR, so both JVM and .Net must be installed.
 
 ## What is being used
 
